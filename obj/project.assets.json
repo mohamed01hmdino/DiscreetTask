@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\safa\\source\\repos\\Project 2\\Project 2\\Project 2.csproj",
-      "projectName": "Project 2",
-      "projectPath": "C:\\Users\\safa\\source\\repos\\Project 2\\Project 2\\Project 2.csproj",
+      "projectUniqueName": "C:\\Users\\safa\\source\\repos\\Project 1\\Project 1\\Project 1.csproj",
+      "projectName": "Project 1",
+      "projectPath": "C:\\Users\\safa\\source\\repos\\Project 1\\Project 1\\Project 1.csproj",
       "packagesPath": "C:\\Users\\safa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\safa\\source\\repos\\Project 2\\Project 2\\obj\\",
+      "outputPath": "C:\\Users\\safa\\source\\repos\\Project 1\\Project 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\safa\\AppData\\Roaming\\NuGet\\NuGet.Config"
